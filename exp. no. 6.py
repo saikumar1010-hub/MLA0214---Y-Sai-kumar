@@ -83,3 +83,4 @@ for row in matrix:
 
 accuracy = sum([1 for a,p in zip(actual,predicted) if a==p]) / len(actual)
 print("\nAccuracy:", round(accuracy*100,2), "%")
+

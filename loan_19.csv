@@ -1,0 +1,5 @@
+Age,Income,CreditScore,LoanApproved
+25,30000,600,No
+40,50000,700,Yes
+35,45000,650,Yes
+23,20000,500,No
